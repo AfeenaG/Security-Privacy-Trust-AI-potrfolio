@@ -14,8 +14,10 @@ A2-Watson-health-debunk
 
 ### 📌 Executive Summary
 This repository contains a critical analysis auditing how academic, mainstream, and technical media reported on IBM Watson Health (specifically Watson for Oncology or WFO) throughout its lifecycle (pp. 1, 3). Grounded in methodologies from the "Security, Privacy, and Trust in AI" Master's curriculum at Ontario Tech University under Professor Andrew Putman, this project evaluates the divergence between marketed AI capabilities and operational clinical realities.By examining three foundational articles spanning a nine-year reporting window, our 3-person research team unmasked how marketing-driven narratives obfuscated a rigid, rule-based database system, framing it instead as an autonomous, omniscient digital physician (pp. 1, 27, 29).
-- Project Artifacts: View the complete Analysis Presentation Deck.
-- Core Finding: IBM Watson Health functioned as a brittle pattern-matching search engine over localized US clinical guidelines, failing to meet the operational definitions of an autonomous learning AI system when exposed to messy, real-world international clinical data (pp. 9, 16, 27).
+- Project Artifacts:
+View the complete Analysis Presentation Deck.
+- Core Finding:
+IBM Watson Health functioned as a brittle pattern-matching search engine over localized US clinical guidelines, failing to meet the operational definitions of an autonomous learning AI system when exposed to messy, real-world international clinical data (pp. 9, 16, 27).
 
 ### 📈 The Lifecycle Arc: 
 Hype vs. Disillusionment
