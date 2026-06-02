@@ -22,6 +22,14 @@ Hype vs. DisillusionmentOur analysis is framed against the macroeconomic and ope
 - Wins Jeopardy!       Deployed in 230+ hospitals  STAT News Exposé       Entire division sold
 - Billions invested.   Concordance rates: 55-85%.  Unsafe recommendations. $4B asset write-down.
 
+| Year & Phase | Key Milestones | Outcomes & Impact |
+| :--- | :--- | :--- |
+| **2011: Peak Hype** | Wins *Jeopardy!* against human champions. | Billions of dollars invested into the platform. |
+| **2013-15: Global Scale** | Deployed in over 230 hospitals worldwide. | Achieves treatment concordance rates of 55–85%. |
+| **2018: Crisis Point** | Investigated by a *STAT News* exposé. | Internal reports reveal unsafe treatment recommendations. |
+| **2022: Liquidation** | Entire Watson Health division is sold off. | Results in a \$4 billion asset write-down for IBM. |
+Use code with caution.Would you like to add columns for specific lessons learned, integrate citations or links for the exposés, or change the visual styling of the table?
+
 ### The Perception: 
 - An all-knowing digital oracle transforming oncology (pp. 3, 27).The Operational Reality: A rigid, labor-intensive database tool reliant on static guidelines and intensive manual data formatting (pp. 27, 29).
 
