@@ -16,11 +16,9 @@ This repository contains a critical analysis auditing how academic, mainstream, 
 - Core Finding: IBM Watson Health functioned as a brittle pattern-matching search engine over localized US clinical guidelines, failing to meet the operational definitions of an autonomous learning AI system when exposed to messy, real-world international clinical data (pp. 9, 16, 27).
 
 ### 📈 The Lifecycle Arc: 
-Hype vs. DisillusionmentOur analysis is framed against the macroeconomic and operational lifecycle of the Watson Health platform:  
+Hype vs. Disillusionment
 
-- 2011: Peak Hype  ──►  2013-15: Global Scale ──►  2018: Crisis Point ──►  2022: Liquidation
-- Wins Jeopardy!       Deployed in 230+ hospitals  STAT News Exposé       Entire division sold
-- Billions invested.   Concordance rates: 55-85%.  Unsafe recommendations. $4B asset write-down.
+Our analysis is framed against the macroeconomic and operational lifecycle of the Watson Health platform:  
 
 | Year & Phase | Key Milestones | Outcomes & Impact |
 | :--- | :--- | :--- |
@@ -28,7 +26,7 @@ Hype vs. DisillusionmentOur analysis is framed against the macroeconomic and ope
 | **2013-15: Global Scale** | Deployed in over 230 hospitals worldwide. | Achieves treatment concordance rates of 55–85%. |
 | **2018: Crisis Point** | Investigated by a *STAT News* exposé. | Internal reports reveal unsafe treatment recommendations. |
 | **2022: Liquidation** | Entire Watson Health division is sold off. | Results in a \$4 billion asset write-down for IBM. |
-Use code with caution.Would you like to add columns for specific lessons learned, integrate citations or links for the exposés, or change the visual styling of the table?
+
 
 ### The Perception: 
 - An all-knowing digital oracle transforming oncology (pp. 3, 27).The Operational Reality: A rigid, labor-intensive database tool reliant on static guidelines and intensive manual data formatting (pp. 27, 29).
