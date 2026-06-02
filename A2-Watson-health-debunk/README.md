@@ -33,7 +33,7 @@ Our analysis is framed against the macroeconomic and operational lifecycle of th
 
 
 ### The Perception: 
-- An all-knowing digital oracle transforming oncology (pp. 3, 27).The Operational Reality: A rigid, labor-intensive database tool reliant on static guidelines and intensive manual data formatting (pp. 27, 29).
+- An all-knowing digital oracle transforming oncology (pp. 3, 27). The Operational Reality: A rigid, labor-intensive database tool reliant on static guidelines and intensive manual data formatting (pp. 27, 29).
 
 
 ## 🛠️ Methodological Frameworks
