@@ -63,5 +63,22 @@ We distributed the workflow across our research group to evaluate three distinct
 | **Technical Paper**<br>IJRCAIT (2024)<br>"Advancing Clinical Decision Support..." (pp. 6, 31) | Afeena Gafoor (p. 1) | - **Suggestive Imagery (Pitfall #2):** Wrapped algorithmic software inside humanoid robot illustrations to artificially engineer clinician trust (p. 23).<br>- **Uncertainty Omission (Pitfall #17):** Reported static performance metrics (e.g., "97% accuracy") as universal constants while omitting experimental standard deviations, sample size context, or boundaries (p. 24). |
 
 
-🧠 Key Findings & Synthesis
-The Core Deception: Brittle Pattern Matching vs. Learned AITrue machine learning relies on models that ingest unstructured training data, dynamically learn latent patterns, and generalize across novel scenarios. Our audit verified that Watson for Oncology did not possess these capabilities. Instead, it executed hard-coded pattern matching across localized medical literature (pp. 9, 16).When evaluated via independent parameters, severe operational flaws emerged:Circular Validation: IBM claimed 90-96% concordance rates (p. 9). However, they evaluated Watson against the exact same Memorial Sloan Kettering physicians who manually curated the system's baseline rules (p. 9). It was evaluated on its own training keys (p. 9).Geographical Fragility: Because the software was coded exclusively to US healthcare protocols, its concordance plunged to 30-50% when deployed in Denmark, South Korea, and China, where genetic profiles, financial constraints, and national healthcare systems differ fundamentally (pp. 4, 9, 12).❓ Fundamental Questions for the AI IndustryThis audit concludes by proposing three structural questions for the future deployment of safety-critical AI systems:The Definition Vector: Did the system ever actually diagnose using adaptive "AI", or was it a glorified corporate marketing narrative masquerading as a medical revolution? (pp. 28-29)The Environment Gap: How can optimal laboratory metrics ever accurately predict safe clinical behavior when transitioning from highly sterile, manually curated test domains into the unstructured, messy environment of an operational hospital? (pp. 27-28)The Liability Boundary: At what point does rebranding a static, rule-based database indexer as an 'Autonomous, Cognitive AI' cross the line from standard technology hype into corporate fraud? (pp. 9, 28-29)Developed as part of the Master of Science in Information Technology (AI Security/Trust track) at Ontario Tech University.
+## 🧠 Key Findings & Synthesis
+
+### The Core Deception: Brittle Pattern Matching vs. Learned AI
+True machine learning relies on models that ingest unstructured training data, dynamically learn latent patterns, and generalize across novel scenarios. Our audit verified that Watson for Oncology did not possess these capabilities. Instead, it executed hard-coded pattern matching across localized medical literature (pp. 9, 16).
+
+When evaluated via independent parameters, severe operational flaws emerged:
+
+- Circular Validation: IBM claimed 90-96% concordance rates (p. 9). However, they evaluated Watson against the exact same Memorial Sloan Kettering physicians who manually curated the system's baseline rules (p. 9). It was evaluated on its own training keys (p. 9).
+- Geographical Fragility: Because the software was coded exclusively to US healthcare protocols, its concordance plunged to 30-50% when deployed in Denmark, South Korea, and China, where genetic profiles, financial constraints, and national healthcare systems differ fundamentally (pp. 4, 9, 12).
+
+##❓ Fundamental Questions for the AI Industry
+This audit concludes by proposing three structural questions for the future deployment of safety-critical AI systems:
+
+- The Definition Vector: Did the system ever actually diagnose using adaptive "AI", or was it a glorified corporate marketing narrative masquerading as a medical revolution? (pp. 28-29)
+- The Environment Gap: How can optimal laboratory metrics ever accurately predict safe clinical behavior when transitioning from highly sterile, manually curated test domains into the unstructured, messy environment of an operational hospital? (pp. 27-28)
+- The Liability Boundary: At what point does rebranding a static, rule-based database indexer as an 'Autonomous, Cognitive AI' cross the line from standard technology hype into corporate fraud? (pp. 9, 28-29)
+
+
+Developed as part of the Master's of Business Analytics and AI at Ontario Tech University.
