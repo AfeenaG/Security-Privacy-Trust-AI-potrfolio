@@ -42,11 +42,12 @@ Our analysis is framed against the macroeconomic and operational lifecycle of th
 ### The Marcus & Davis Framework (System Capabilities)
 
 Evaluates what an AI system tangibly executes versus its public-facing claims (p. 7) across 6 vectors:
-  - Operational Execution: What does the system actually do? (p. 9)
-  - Generalisability: How brittle is the model outside its training distribution? (p. 9)
-  - Verification: Is there an open, independent test environment or demo? (p. 9)Baseline Comparisons: Compared against which specific human experts? (p. 9)
-  - Proximity to Artificial General Intelligence (AGI): Is it true cognitive learning or static logic? (p. 9)
-  - Robustness: How handles edge cases, failure rates, and unstructured data? (p. 9)2.
+  - What does the system actually do? (p. 9)
+  - How general is the result? (p. 9)
+  - Is there a demo? (p. 9)
+  - Better than humans- which humans? (p. 9)
+  - How far towards genuine AI? (p. 9)
+  - How Robust? (p. 9)2.
 
 ## The Kapoor & Narayanan Framework (Reporting Pitfalls)
 Identifies 18 systemic traps and biases that writers fall into when reporting on machine learning systems (p. 7), with specific focus on:
