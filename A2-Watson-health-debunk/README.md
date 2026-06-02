@@ -1,7 +1,8 @@
 
 
 
-### CASE STUDY: Auditing the AI Hype Cycle in Healthcare JournalismA Critical Analysis of IBM Watson Health via Algorithmic Transparency Frameworks
+### CASE STUDY: 
+Auditing the AI Hype Cycle in Healthcare JournalismA Critical Analysis of IBM Watson Health via Algorithmic Transparency Frameworks
 
 ```text
 A2-Watson-health-debunk
