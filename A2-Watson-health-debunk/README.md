@@ -1,5 +1,8 @@
 
 
+
+### CASE STUDY: Auditing the AI Hype Cycle in Healthcare JournalismA Critical Analysis of IBM Watson Health via Algorithmic Transparency Frameworks
+
 ```text
 A2-Watson-health-debunk
 │
@@ -7,8 +10,6 @@ A2-Watson-health-debunk
 └── WatsonHealthpresentation
 ```
 
-
-CASE STUDY: Auditing the AI Hype Cycle in Healthcare JournalismA Critical Analysis of IBM Watson Health via Algorithmic Transparency Frameworks
 
 ### 📌 Executive Summary
 This repository contains a critical analysis auditing how academic, mainstream, and technical media reported on IBM Watson Health (specifically Watson for Oncology or WFO) throughout its lifecycle (pp. 1, 3). Grounded in methodologies from the "Security, Privacy, and Trust in AI" Master's curriculum at Ontario Tech University under Professor Andrew Putman, this project evaluates the divergence between marketed AI capabilities and operational clinical realities.By examining three foundational articles spanning a nine-year reporting window, our 3-person research team unmasked how marketing-driven narratives obfuscated a rigid, rule-based database system, framing it instead as an autonomous, omniscient digital physician (pp. 1, 27, 29).
