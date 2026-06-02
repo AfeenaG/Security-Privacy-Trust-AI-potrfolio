@@ -86,7 +86,7 @@ This audit concludes by proposing three structural questions for the future depl
 Developed as part of the Master's of Business Analytics and AI at Ontario Tech University.
 
 ### Contributors:
-1. Afeena Gafoor- Group Lead
-2. Jeya Surya Balaji
-3. Shivam Patel
+1. Afeena Gafoor- Group Lead (sourced articles, Article 3, Perception vs Reality, Questions, Conculsions)
+2. Jeya Surya Balaji (Article 2)
+3. Shivam Patel  (Introduction, Timeline, frameworks used, Introduce Articles, Article 1)
 
