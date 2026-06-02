@@ -32,10 +32,12 @@ Our analysis is framed against the macroeconomic and operational lifecycle of th
 - An all-knowing digital oracle transforming oncology (pp. 3, 27).The Operational Reality: A rigid, labor-intensive database tool reliant on static guidelines and intensive manual data formatting (pp. 27, 29).
 
 
-### 🛠️ Methodological Frameworks
+## 🛠️ Methodological Frameworks
 - To strip away technical jargon, we cross-examined the literature using two complementary AI auditing frameworks:
+- 
 ### The Marcus & Davis Framework (System Capabilities)
-  - Evaluates what an AI system tangibly executes versus its public-facing claims (p. 7) across 6 vectors:
+
+Evaluates what an AI system tangibly executes versus its public-facing claims (p. 7) across 6 vectors:
   - Operational Execution: What does the system actually do? (p. 9)
   - Generalisability: How brittle is the model outside its training distribution? (p. 9)
   - Verification: Is there an open, independent test environment or demo? (p. 9)Baseline Comparisons: Compared against which specific human experts? (p. 9)
